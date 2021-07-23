@@ -1,23 +1,25 @@
-# vue3-playground
+# vue3-composition-api-playground
+
+Researching Vue 3's new composition API to see how it compares to the Options API in Vue 2 for better code reusability, readability, and maintenance.
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+npm serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+npm build
 ```
 
 ### Lints and fixes files
 ```
-yarn lint
+npm lint
 ```
 
 ### Customize configuration
