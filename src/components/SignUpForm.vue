@@ -125,7 +125,7 @@
 import { defineComponent, ref, computed } from "vue";
 
 export default defineComponent({
-  name: "HelloWorld",
+  name: "SignUpForm",
   props: {},
 
   setup() {
